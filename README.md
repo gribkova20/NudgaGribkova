@@ -23,7 +23,7 @@ The block contains a brief excerpt of the project files, a more detailed descrip
 
 `Text_processing.py` - This is a code designed for processing text in Russian and English.
 
-`"weight. h5"` - Coefficients of the trained neural network.
+`"weight.h5"` - Coefficients of the trained neural network.
 
 `"train.csv"` - News articles for the training dataset.
 
