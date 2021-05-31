@@ -19,7 +19,7 @@ The block contains a brief excerpt of the project files, a more detailed descrip
 
 `RNN_model_eng.py` - The module is designed to predict the topic of a text.
 
-`Input_data.py` - The module is designed to prepare input data for a neural network.
+`Input_data.py` -The module is designed to prepare input data for a neural network.
 
 `Text_processing.py` - This is a code designed for processing text in Russian and English.
 
