@@ -8,7 +8,7 @@ The *purpose* of this repository is to create a deep learning neural network mod
 The input data was a sample consisting of more than 1 million news articles that were taken from an open source. The data was divided into 3 data sets: training, validation, and test datasets. The purpose of the model was to recognize the subject of the submitted text. The model was evaluated using the "*accuracy*" metric, and the model's accuracy was 85%. The model is at the stage of optimization and selection of parameters for better accuracy.
 
 
-## Usage
+##  Usage
 1. The model is located in `RNN_model_eng.py.`
 2. Run python `RNN_model_eng.py` to predict the topic of a text, if you need to train the model, you need to call the function `show_model()`.
 
