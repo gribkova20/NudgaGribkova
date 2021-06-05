@@ -1,4 +1,4 @@
-##  Text Classification
+## Text Classification
 
 The *purpose* of this repository is to create a deep learning neural network model for classifying texts on 4 topics: 
 
